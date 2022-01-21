@@ -1,0 +1,7 @@
+:root{
+    --color:  #FEEAE9;
+}
+
+.panda-bg{
+    background-color: var(--color);
+}
