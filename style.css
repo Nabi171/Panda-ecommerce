@@ -5,3 +5,15 @@
 .panda-bg{
     background-color: var(--color);
 }
+.buy-now{
+    animation-delay:.5s ;
+}
+.buy-now1{
+    animation-delay:.7s ;
+}
+.buy-now3{
+    animation-delay:.9s ;
+}
+.buy-now4{
+    animation-delay:.9s ;
+}
